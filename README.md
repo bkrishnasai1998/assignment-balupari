@@ -29,3 +29,15 @@ The **Salar Jung Museum** is an art museum located at Dar-ul-Shifa, on the south
 * Birla Mandir
 
 [AboutMe](AboutMe.md)
+
+***
+# Recommended places
+
+The table below provides the information of places to visit in a city and the time required to spend.
+
+|Name of the City|Location to visit|Time required to spend|
+|:---:|:---:|:---:|
+|Hyderabad|Charminar|2 hours|
+|Agra|Taj Mahal|3 hours|
+|New Delhi|India Gate|1 hour|
+|Mumbai|Gateway of India|1 hour|
