@@ -21,3 +21,9 @@ The **Salar Jung Museum** is an art museum located at Dar-ul-Shifa, on the south
     2. Turn left toward Salar Jung Rd
     3. Continue onto Salar Jung Rd
 4. Turn left
+
+# Other locations
+* Golconda Fort
+* Chowmahalla Palace
+* Taj Falaknuma Palace
+* Birla Mandir
