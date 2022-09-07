@@ -41,3 +41,29 @@ The table below provides the information of places to visit in a city and the ti
 |Agra|Taj Mahal|3 hours|
 |New Delhi|India Gate|1 hour|
 |Mumbai|Gateway of India|1 hour|
+
+***
+
+# Motivation Quotes
+
+> Strength is life; weakness is death. -*"Swami Vikekananda"*
+
+> If you want to shine like a sun, first burn like a sun. -*"A. P. J. Abdul Kalam"*
+
+***
+# Random color
+> Code to generate a random color using Javascript
+
+<https://stackoverflow.com/questions/1484506/random-color-generator>
+
+```
+const setBg = () => {
+  const randomColor = Math.floor(Math.random()*16777215).toString(16);
+  document.body.style.backgroundColor = "#" + randomColor;
+  color.innerHTML = "#" + randomColor;
+}
+
+genNew.addEventListener("click", setBg);
+setBg();
+```
+<https://css-tricks.com/snippets/javascript/random-hex-color/>
